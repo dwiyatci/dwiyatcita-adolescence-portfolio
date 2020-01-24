@@ -1,0 +1,13 @@
+{
+  "name": "dwiyatcita-adolescence-portfolio",
+  "version": "1.0.0",
+  "description": "My adolescence portfolio",
+  "main": "",
+  "repository": "git@github.com:dwiyatci/dwiyatcita-adolescence-portfolio.git",
+  "author": "Glenn Dwiyatcita <gmd@email.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "1.19.1"
+  }
+}
