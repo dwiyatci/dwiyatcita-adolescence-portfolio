@@ -15,12 +15,27 @@ Master's thesis at Fraunhofer-FIT department in Sankt Augustin, Germany.
 
 **Screenshots**:
 
-- ![alt text](screenshots/webav/screenshot-1.png)
-- ![alt text](screenshots/webav/screenshot-2.png)
-- ![alt text](screenshots/webav/screenshot-3.png)
-- ![alt text](screenshots/webav/screenshot-4.png)
-- ![alt text](screenshots/webav/screenshot-5.png)
-- ![alt text](screenshots/webav/screenshot-6.png)
+![alt text](screenshots/webav/screenshot-1.png)
+
+---
+
+![alt text](screenshots/webav/screenshot-2.png)
+
+---
+
+![alt text](screenshots/webav/screenshot-3.png)
+
+---
+
+![alt text](screenshots/webav/screenshot-4.png)
+
+---
+
+![alt text](screenshots/webav/screenshot-5.png)
+
+---
+
+![alt text](screenshots/webav/screenshot-6.png)
 
 ## PeeroraBox (called off)
 
@@ -34,24 +49,75 @@ D2D (Dropbox-to-Dropbox file exchanging system), as opposed to P2P.
 
 **Screenshots**:
 
-- ![alt text](screenshots/peerorabox/screenshot-1.png)
-- ![alt text](screenshots/peerorabox/screenshot-2.png)
-- ![alt text](screenshots/peerorabox/screenshot-3.png)
-- ![alt text](screenshots/peerorabox/screenshot-4.png)
-- ![alt text](screenshots/peerorabox/screenshot-5.png)
-- ![alt text](screenshots/peerorabox/screenshot-6.png)
-- ![alt text](screenshots/peerorabox/screenshot-7.png)
-- ![alt text](screenshots/peerorabox/screenshot-8.png)
-- ![alt text](screenshots/peerorabox/screenshot-9.png)
-- ![alt text](screenshots/peerorabox/screenshot-10.png)
-- ![alt text](screenshots/peerorabox/screenshot-11.png)
-- ![alt text](screenshots/peerorabox/screenshot-12.png)
-- ![alt text](screenshots/peerorabox/screenshot-13.png)
-- ![alt text](screenshots/peerorabox/screenshot-14.png)
-- ![alt text](screenshots/peerorabox/screenshot-15.png)
-- ![alt text](screenshots/peerorabox/screenshot-16.png)
-- ![alt text](screenshots/peerorabox/screenshot-17.png)
-- ![alt text](screenshots/peerorabox/screenshot-18.png)
+![alt text](screenshots/peerorabox/screenshot-1.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-2.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-3.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-4.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-5.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-6.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-7.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-8.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-9.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-10.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-11.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-12.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-13.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-14.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-15.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-16.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-17.png)
+
+---
+
+![alt text](screenshots/peerorabox/screenshot-18.png)
 
 ## Memetrekker - Facebook Application (prototype)
 
@@ -66,12 +132,27 @@ Germany.
 
 **Screenshots**:
 
-- ![alt text](screenshots/memetrekker/screenshot-1.png)
-- ![alt text](screenshots/memetrekker/screenshot-2.png)
-- ![alt text](screenshots/memetrekker/screenshot-3.png)
-- ![alt text](screenshots/memetrekker/screenshot-4.png)
-- ![alt text](screenshots/memetrekker/screenshot-5.png)
-- ![alt text](screenshots/memetrekker/screenshot-6.png)
+![alt text](screenshots/memetrekker/screenshot-1.png)
+
+---
+
+![alt text](screenshots/memetrekker/screenshot-2.png)
+
+---
+
+![alt text](screenshots/memetrekker/screenshot-3.png)
+
+---
+
+![alt text](screenshots/memetrekker/screenshot-4.png)
+
+---
+
+![alt text](screenshots/memetrekker/screenshot-5.png)
+
+---
+
+![alt text](screenshots/memetrekker/screenshot-6.png)
 
 ## MC-2 - Wired Sensor Network Visualization Application
 
@@ -86,17 +167,47 @@ COMSYS department in Aachen, Germany.
 
 **Screenshots**:
 
-- ![alt text](screenshots/mc-2/screenshot-1.png)
-- ![alt text](screenshots/mc-2/screenshot-2.png)
-- ![alt text](screenshots/mc-2/screenshot-3.png)
-- ![alt text](screenshots/mc-2/screenshot-4.png)
-- ![alt text](screenshots/mc-2/screenshot-5.png)
-- ![alt text](screenshots/mc-2/screenshot-6.png)
-- ![alt text](screenshots/mc-2/screenshot-7.png)
-- ![alt text](screenshots/mc-2/screenshot-8.png)
-- ![alt text](screenshots/mc-2/screenshot-9.png)
-- ![alt text](screenshots/mc-2/screenshot-10.png)
-- ![alt text](screenshots/mc-2/screenshot-11.png)
+![alt text](screenshots/mc-2/screenshot-1.png)
+
+---
+
+![alt text](screenshots/mc-2/screenshot-2.png)
+
+---
+
+![alt text](screenshots/mc-2/screenshot-3.png)
+
+---
+
+![alt text](screenshots/mc-2/screenshot-4.png)
+
+---
+
+![alt text](screenshots/mc-2/screenshot-5.png)
+
+---
+
+![alt text](screenshots/mc-2/screenshot-6.png)
+
+---
+
+![alt text](screenshots/mc-2/screenshot-7.png)
+
+---
+
+![alt text](screenshots/mc-2/screenshot-8.png)
+
+---
+
+![alt text](screenshots/mc-2/screenshot-9.png)
+
+---
+
+![alt text](screenshots/mc-2/screenshot-10.png)
+
+---
+
+![alt text](screenshots/mc-2/screenshot-11.png)
 
 ## Ludovico - P2P File Sharing Application
 
@@ -111,8 +222,11 @@ Microsoft.
 
 **Screenshots**:
 
-- ![alt text](screenshots/ludovico/screenshot-1.png)
-- ![alt text](screenshots/ludovico/screenshot-2.png)
+![alt text](screenshots/ludovico/screenshot-1.png)
+
+---
+
+![alt text](screenshots/ludovico/screenshot-2.png)
 
 ## Demeter - Wireless Sensor Network Monitoring and Visualization Software
 
@@ -128,11 +242,23 @@ part of my Bachelor's thesis.
 
 **Screenshots**:
 
-- ![alt text](screenshots/demeter/screenshot-1.png)
-- ![alt text](screenshots/demeter/screenshot-2.png)
-- ![alt text](screenshots/demeter/screenshot-3.png)
-- ![alt text](screenshots/demeter/screenshot-4.png)
-- ![alt text](screenshots/demeter/screenshot-5.png)
+![alt text](screenshots/demeter/screenshot-1.png)
+
+---
+
+![alt text](screenshots/demeter/screenshot-2.png)
+
+---
+
+![alt text](screenshots/demeter/screenshot-3.png)
+
+---
+
+![alt text](screenshots/demeter/screenshot-4.png)
+
+---
+
+![alt text](screenshots/demeter/screenshot-5.png)
 
 ## PeePL - Information Retrieval System (Prototype)
 
@@ -147,9 +273,15 @@ using vector space IR model and was powered by Google Maps®.
 
 **Screenshots**:
 
-- ![alt text](screenshots/peepl/screenshot-1.png)
-- ![alt text](screenshots/peepl/screenshot-2.png)
-- ![alt text](screenshots/peepl/screenshot-3.png)
+![alt text](screenshots/peepl/screenshot-1.png)
+
+---
+
+![alt text](screenshots/peepl/screenshot-2.png)
+
+---
+
+![alt text](screenshots/peepl/screenshot-3.png)
 
 ## Modora - Basic Local Alignment Search Tool
 
@@ -164,13 +296,31 @@ known.
 
 **Screenshots**:
 
-- ![alt text](screenshots/modora/screenshot-1.png)
-- ![alt text](screenshots/modora/screenshot-2.png)
-- ![alt text](screenshots/modora/screenshot-3.png)
-- ![alt text](screenshots/modora/screenshot-4.png)
-- ![alt text](screenshots/modora/screenshot-5.png)
-- ![alt text](screenshots/modora/screenshot-6.png)
-- ![alt text](screenshots/modora/screenshot-7.png)
+![alt text](screenshots/modora/screenshot-1.png)
+
+---
+
+![alt text](screenshots/modora/screenshot-2.png)
+
+---
+
+![alt text](screenshots/modora/screenshot-3.png)
+
+---
+
+![alt text](screenshots/modora/screenshot-4.png)
+
+---
+
+![alt text](screenshots/modora/screenshot-5.png)
+
+---
+
+![alt text](screenshots/modora/screenshot-6.png)
+
+---
+
+![alt text](screenshots/modora/screenshot-7.png)
 
 ## MinUI™ Compiler
 
@@ -202,6 +352,12 @@ Based (GMLB) algorithm.
 
 **Screenshots**:
 
-- ![alt text](screenshots/pandora/screenshot-1.png)
-- ![alt text](screenshots/pandora/screenshot-2.png)
-- ![alt text](screenshots/pandora/screenshot-3.png)
+![alt text](screenshots/pandora/screenshot-1.png)
+
+---
+
+![alt text](screenshots/pandora/screenshot-2.png)
+
+---
+
+![alt text](screenshots/pandora/screenshot-3.png)
